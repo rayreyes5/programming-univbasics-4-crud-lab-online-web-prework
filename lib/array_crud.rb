@@ -1,6 +1,6 @@
 def create_an_empty_array
   
-end my_array = []
+end puppies = []
 
 def create_an_array
   
@@ -8,11 +8,11 @@ end puppies = ["bulldog", "terrier", "poodle", "husky"]
 
 def add_element_to_end_of_array(array, element)
   
-end puppies << 
+end puppies << "golden retriver"
 
 def add_element_to_start_of_array(array, element)
   
-end
+end 
 
 def remove_element_from_end_of_array(array)
   

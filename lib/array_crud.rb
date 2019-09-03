@@ -4,7 +4,7 @@ end my_array = []
 
 def create_an_array
   
-end 
+end puppies = ["bulldog", "terrier", "poodle", "husky"]
 
 def add_element_to_end_of_array(array, element)
   

@@ -20,11 +20,11 @@ end husky = puppies.pop
 
 def remove_element_from_start_of_array(array)
   
-end
+end bulldog = puppies.shift
 
 def retrieve_element_from_index(array, index_number)
   
-end
+end 
 
 def retrieve_first_element_from_array(array)
   

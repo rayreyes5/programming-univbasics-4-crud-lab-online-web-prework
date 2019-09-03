@@ -8,11 +8,11 @@ end puppies = ["bulldog", "terrier", "poodle", "husky"]
 
 def add_element_to_end_of_array(array, element)
   
-end puppies << "golden retriver"
+end puppies << "golden retriever"
 
 def add_element_to_start_of_array(array, element)
   
-end puppies.unshift(golden)
+end puppies.unshift(golden retriever)
 
 def remove_element_from_end_of_array(array)
   

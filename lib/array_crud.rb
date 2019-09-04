@@ -38,11 +38,12 @@ puppies [3]
 
 def retrieve_first_element_from_array(array)
   
-end 
+end puppies [0]
+#=> "bulldog" 
 
 def retrieve_last_element_from_array(array)
   
-end
+end 
 
 def update_element_from_index(array, index_number, element)
 

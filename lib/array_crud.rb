@@ -27,6 +27,14 @@ def retrieve_element_from_index(array, index_number)
 end puppies [0]
 #=> "bulldog" 
 
+puppies [1]
+#=> "terrier"
+
+puppies [2]
+#=> "poodle"
+
+puppies [3]
+#=> "husky"
 
 def retrieve_first_element_from_array(array)
   

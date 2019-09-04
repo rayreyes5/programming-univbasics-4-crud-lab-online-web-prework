@@ -43,8 +43,9 @@ end puppies [0]
 
 def retrieve_last_element_from_array(array)
   
-end 
+end puppies [3]
+#=> "husky"
 
 def update_element_from_index(array, index_number, element)
 
-end
+end 
